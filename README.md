@@ -1,4 +1,4 @@
-Forked from eriklindernoren/PyTorch-YOLOv3, if you want to use PyTorc YOLO please goto the original github: https://github.com/eriklindernoren/PyTorch-YOLOv3
+Forked from eriklindernoren/PyTorch-YOLOv3, if you want to use PyTorch YOLO please goto the original github: https://github.com/eriklindernoren/PyTorch-YOLOv3
 
 ---------------------------
 Original ReadMe
